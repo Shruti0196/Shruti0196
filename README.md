@@ -8,47 +8,30 @@ Hello! I'm a passionate software developer with experience in developing, and op
 
 💻 Programming Languages
 
-C++
-
-TypeScript
-
-Python
-
-C
-
-HTML
-
-CSS
+C++ | 
+TypeScript | 
+Python | 
+C | 
+HTML | 
+CSS | 
 
 🔧 Technologies & Frameworks
 
-Angular
-
-Django Rest Framework
-
-Cypress
-
-Jest
-
-Angular Material
-
-Bootstrap
-
-MySQL
-
-Git
-
-NLP (Natural Language Processing)
+Angular | 
+Django Rest Framework | 
+Cypress | 
+Jest | 
+Angular Material | 
+Bootstrap | 
+MySQL | 
+Git | 
+Natural Language Processing (NLP) | 
 
 📚 Core Concepts
 
-Object-Oriented Programming (OOP)
-
-Data Structures and Algorithms (DSA)
-
-Database Management Systems (DBMS)
-
-
+Object-Oriented Programming (OOP) | 
+Data Structures and Algorithms (DSA) | 
+Database Management Systems (DBMS) | 
 
 🔗 Connect with Me
 
