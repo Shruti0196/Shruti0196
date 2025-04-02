@@ -1,16 +1,60 @@
-## Hi there 👋
+Hi there! 👋 Welcome to My GitHub Profile
 
-<!--
-**Shruti0196/Shruti0196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+Hello! I'm a passionate software developer with experience in developing, and optimizing applications using various programming languages and technologies. I enjoy problem-solving and constantly learning new tools and frameworks to build efficient and scalable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+💻 Programming Languages
+
+C++
+
+TypeScript
+
+Python
+
+C
+
+HTML
+
+CSS
+
+🔧 Technologies & Frameworks
+
+Angular
+
+Django Rest Framework
+
+Cypress
+
+Jest
+
+Angular Material
+
+Bootstrap
+
+MySQL
+
+Git
+
+NLP (Natural Language Processing)
+
+📚 Core Concepts
+
+Object-Oriented Programming (OOP)
+
+Data Structures and Algorithms (DSA)
+
+Database Management Systems (DBMS)
+
+
+
+🔗 Connect with Me
+
+💼 LinkedIn: https://www.linkedin.com/in/shruti-prasad-859b45208/
+
+📧 Email: shrutiap2003@gmail.com
+
+Feel free to explore my repositories and contribute! Happy coding! 🚀
+
